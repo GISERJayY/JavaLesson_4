@@ -41,7 +41,7 @@ datType[] arrayRefVar = new dataType[arraySize];
 
 - Java内存分析
 
-![]([/Users/a88/Desktop/JAVA/JavaLesson_4/图片/WX20230619-230401.png](https://github.com/GISERJayY/JavaLesson_4/blob/main/%E5%9B%BE%E7%89%87/WX20230619-230401.png?raw=true))
+![](https://github.com/GISERJayY/JavaLesson_4/blob/main/%E5%9B%BE%E7%89%87/WX20230619-230401.png?raw=true)
 
 - 写代码画图分析内存
 
