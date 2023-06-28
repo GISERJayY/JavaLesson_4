@@ -47,7 +47,7 @@ datType[] arrayRefVar = new dataType[arraySize];
 
 栈：变量类型 压入栈中。  堆：创建一个新空间，存放数组。
 
-![](/Users/a88/Desktop/JAVA/JavaLesson_4/图片/内存分析.jpg)
+![](https://github.com/GISERJayY/JavaLesson_4/blob/main/%E5%9B%BE%E7%89%87/%E5%86%85%E5%AD%98%E5%88%86%E6%9E%90.jpg?raw=true)
 
 ## 三种初始化
 
@@ -110,7 +110,7 @@ int a[][] = new int[3][2]
 
 
 
-![](/Users/a88/Desktop/JAVA/JavaLesson_4/图片/二维数组.png)
+![](https://github.com/GISERJayY/JavaLesson_4/blob/main/%E5%9B%BE%E7%89%87/%E4%BA%8C%E7%BB%B4%E6%95%B0%E7%BB%84.png?raw=true)
 
 ```java
 int a[][] = new int[2][5]
@@ -146,7 +146,7 @@ num[1][0]
 
 - 需要：编写五子棋游戏中，有存盘退出和读上盘的功能。
 
- ![](/Users/a88/Desktop/JAVA/JavaLesson_4/图片/棋盘.png)
+ ![](https://github.com/GISERJayY/JavaLesson_4/blob/main/%E5%9B%BE%E7%89%87/%E6%A3%8B%E7%9B%98.png?raw=true)
 
 - 分析问题：因为该二维数组最多值是默认值0，因此记录了很多没有意义的数据。
 - 解决：稀疏数组
@@ -156,7 +156,7 @@ num[1][0]
   - 把具体有不同值的元素和行列及值记录在一个小规模的数组中，从而缩小程序的规模
 - 如下图：左边是原始数组，右边是稀疏数组
 
-![](/Users/a88/Desktop/JAVA/JavaLesson_4/图片/稀疏数组.png)
+![](https://github.com/GISERJayY/JavaLesson_4/blob/main/%E5%9B%BE%E7%89%87/%E7%A8%80%E7%96%8F%E6%95%B0%E7%BB%84.png?raw=true)
 
 
 
